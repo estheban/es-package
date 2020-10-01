@@ -1,1 +1,5 @@
-electron-builder.yml
+.DS_Store
+dist/
+node_modules/
+thumbs.db
+.idea/
